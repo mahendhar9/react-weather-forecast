@@ -30,7 +30,7 @@ class SearchBar extends Component {
          onChange={(event) => this.onInputChange(event)}
        />
        <span className="input-group-btn">
-         <button type="submit" className="btn btn-secondary">Submit</button>
+         <button type="submit" className="btn btn-danger">Submit</button>
        </span>
      </form>
      )

@@ -3,15 +3,24 @@ td, th {
   text-align: center !important;
 }
 
+h1 {
+  margin-top: 30px !important;
+}
+
 .input-group {
   margin: 20px 0px;
 }
 
 svg {
-  height: 150px;
+  height: 200px;
 }
 
 td:first-of-type, td:first-of-type > div {
   height: 200px;
   width: 250px;
 }
+
+td p {
+  margin-top: 10px;
+}
+
