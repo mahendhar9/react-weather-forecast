@@ -1,10 +1,26 @@
+body {
+  font-family: 'Open Sans', sans-serif;
+}
+
 td, th {
   vertical-align: middle !important;
   text-align: center !important;
+  font-family: 'Patua One', sans-serif;
+}
+
+table th {
+  font-weight: normal;
+  font-size: 17px;
+}
+
+table td {
+  color: #3498db;
+  font-size: 17px;
 }
 
 h1 {
   margin-top: 30px !important;
+  font-family: 'Patua One', sans-serif;
 }
 
 .input-group {
